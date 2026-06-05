@@ -100,3 +100,7 @@ npm test
 ## License
 
 MIT
+
+## Related Issues
+
+- [LUM-356](https://github.com/Ericwong5021/auto-slice) — CLI interface implementation
