@@ -1,0 +1,9 @@
+{
+  "outputDir": "./output",
+  "format": "png",
+  "quality": 90,
+  "bgSensitivity": 0.3,
+  "bgColor": "#ffffff",
+  "concurrency": 4,
+  "verbose": false
+}
